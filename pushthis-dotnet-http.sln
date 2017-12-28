@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pushthis-dotnet-http", "pushthis-dotnet-http\pushthis-dotnet-http.csproj", "{2DA82AD7-F0AC-44C2-868E-5A1A59331752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{B6F1E6DE-A49E-4510-AD59-E2AA2B162050}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2DA82AD7-F0AC-44C2-868E-5A1A59331752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA82AD7-F0AC-44C2-868E-5A1A59331752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA82AD7-F0AC-44C2-868E-5A1A59331752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F1E6DE-A49E-4510-AD59-E2AA2B162050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F1E6DE-A49E-4510-AD59-E2AA2B162050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F1E6DE-A49E-4510-AD59-E2AA2B162050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F1E6DE-A49E-4510-AD59-E2AA2B162050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
